@@ -6,6 +6,7 @@
 
 body {
   background-color: #09090a;
+  color: #fff;
 
   /* display: grid;
   place-items: center; */
@@ -34,6 +35,10 @@ button {
 
   font-family: "Inter", sans-serif;
   font-weight: 600;
+}
+
+form {
+  display: flex;
 }
 
 input {
