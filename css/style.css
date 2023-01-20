@@ -41,6 +41,18 @@ form {
   display: flex;
 }
 
+.days {
+  display: flex;
+  gap: 42px;
+  margin-left: 32px;
+}
+
+.day {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
 input {
   appearance: none;
   -webkit-appearance: none;
